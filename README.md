@@ -8,7 +8,7 @@ I've always took huge interest in tech and programming, so I decided that this h
 
 * 🌍  I'm based in Hamburg, Germany
 * 🖥️  See my portfolio at [truecodings.com](http://truecodings.com)
-* ✉️  You can contact me at [truecodings@gmail.com](mailto:truecodings@gmail.com)
+* ✉️  You can contact me at [martin.etterszalai@gmail.com](mailto:truecodings@gmail.com)
 * 🧠  I'm learning React and Redux
 * 🤝  I'm open to collaborating on any kind of frontend projects
 
